@@ -1,0 +1,14 @@
+PODS:
+  - Objc-Foundation-Extensions (0.1.0)
+
+DEPENDENCIES:
+  - Objc-Foundation-Extensions (from `../`)
+
+EXTERNAL SOURCES:
+  Objc-Foundation-Extensions:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Objc-Foundation-Extensions: d7095c0e0739b1e510c911eeddbb444cfac4d445
+
+COCOAPODS: 0.38.0
