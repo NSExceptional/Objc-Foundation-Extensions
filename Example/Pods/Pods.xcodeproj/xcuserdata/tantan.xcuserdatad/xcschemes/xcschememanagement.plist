@@ -4,11 +4,6 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Objc-Foundation-Extensions-Objc-Foundation-Extensions.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Objc-Foundation-Extensions.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -21,22 +16,6 @@
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict>
-		<key>3A1FB47F923746221C008D0B43672B2F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A0A64DC93463CFAF0801E69E221920A0</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F9EB80EEAD31E02D1566050E5D55179B</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-	</dict>
+	<dict/>
 </dict>
 </plist>

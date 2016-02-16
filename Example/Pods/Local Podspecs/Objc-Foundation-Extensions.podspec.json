@@ -1,25 +1,19 @@
 {
   "name": "Objc-Foundation-Extensions",
   "version": "0.1.0",
-  "summary": "A short description of Objc-Foundation-Extensions.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/Objc-Foundation-Extensions",
+  "summary": "A few helpful extensions to some Foundation classes.",
+  "homepage": "https://github.com/ThePantsThief/Objc-Foundation-Extensions",
   "license": "MIT",
   "authors": {
     "ThePantsThief": "tannerbennett@me.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/Objc-Foundation-Extensions.git",
+    "git": "https://github.com/ThePantsThief/Objc-Foundation-Extensions.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.1"
   },
   "requires_arc": true,
-  "source_files": "Pod/Classes/**/*",
-  "resource_bundles": {
-    "Objc-Foundation-Extensions": [
-      "Pod/Assets/*.png"
-    ]
-  }
+  "source_files": "Pod/Classes/**/*"
 }

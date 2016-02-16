@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Objc-Foundation-Extensions: d7095c0e0739b1e510c911eeddbb444cfac4d445
+  Objc-Foundation-Extensions: 0e24d6a4b986d2398305f6b382c1031093f3ee5c
 
 COCOAPODS: 0.38.0

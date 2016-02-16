@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/ThePantsThief/Objc-Foundation-Extensions"
   s.license          = 'MIT'
   s.author           = { "ThePantsThief" => "tannerbennett@me.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/Objc-Foundation-Extensions.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/ThePantsThief/Objc-Foundation-Extensions.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '7.1'
   s.requires_arc = true
