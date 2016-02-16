@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EF6DEDDAFAAF21D5E38F934B"
+               BlueprintIdentifier = "6B10F3D4C0CA895C2E2F5E97"
                BuildableName = "libObjc-Foundation-Extensions.a"
                BlueprintName = "Objc-Foundation-Extensions"
                ReferencedContainer = "container:Pods.xcodeproj">
